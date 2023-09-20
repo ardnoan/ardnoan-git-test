@@ -1,2 +1,2 @@
 # ardnona-git-test
-Mencoba git remote
+Mencoba git remotto
